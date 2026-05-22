@@ -20,41 +20,44 @@ export default function AboutPage() {
 
       <div className="space-y-5">
         <p className="text-lg text-mortar leading-relaxed">
-          I&apos;m Nick Lockwood — a Baptist pastor based in Harrisdale, Western Australia.
+          I&apos;m Nick Lockwood — a Baptist pastor, preacher, and writer based in Perth,
+          Western Australia.
         </p>
 
         <p className="text-ink/85 leading-[1.85] text-[1.0625rem]">
-          I currently serve as a pastor at Carey Baptist Church in Harrisdale, where I oversee
-          youth and young adult ministry, contribute to leadership development, and walk alongside
-          people in the ordinary rhythms of Christian life. Before this, I served in Anglican
-          parish ministry, with a focus on the formation of lay leaders and the health of
-          congregational life.
+          I&apos;ve spent more than two decades in ministry — from leading a church plant in
+          outer-suburban Perth, to seven years as Priest in Charge of an Anglican parish in
+          Willetton, to my current work in Baptist pastoral ministry. Across those different
+          contexts, the calling has stayed the same: help ordinary people hear the gospel clearly,
+          and help the local church be faithful in the place where it&apos;s been planted.
         </p>
 
         <p className="text-ink/85 leading-[1.85] text-[1.0625rem]">
-          I&apos;m accredited with Baptist Churches Western Australia, hold a Certificate IV in
-          Ministry and Theology, and am passionate about helping people — especially those in
-          ministry — to know Christ more deeply and serve him more faithfully.
+          I hold a BA in Theology from Murdoch University and am currently completing a Graduate
+          Certificate in Divinity at Morling College, under the supervision of Dr David Starling.
+          I completed Arrow Leadership&apos;s two-year Emerging Leaders Programme and the Tree of
+          Life Programme in Christian Spirituality and Spiritual Direction — formation experiences
+          that deepened my conviction that ministry is as much about who we&apos;re becoming as
+          what we&apos;re doing.
+        </p>
+
+        <p className="text-ink/85 leading-[1.85] text-[1.0625rem]">
+          I&apos;m reformed in my theology, shaped by the patristic tradition and the great cloud
+          of witnesses, and convinced that Christ-centred preaching and prayer are the engine room
+          of everything. I love expository preaching that takes the text seriously and the
+          congregation seriously — and I love the ordinary rhythms of ministry that don&apos;t
+          make the news: the conversations after church, the prayers before a hard week, the small
+          faithfulnesses that only God sees.
         </p>
 
         <p className="text-ink/85 leading-[1.85] text-[1.0625rem]">
           The name <em>The Ordinary Pastor</em> comes from a conviction I keep returning to: that
-          faithfulness, not fame, is what God asks of most of us. The Scriptures are full of
-          ordinary people doing ordinary things in the strength that God provides — and somehow,
-          the kingdom advances. I write for pastors and church people who feel the weight of that
-          ordinariness and want to hold it well.
+          faithfulness, not fame, is what God asks of most of us. I write for pastors and church
+          people who feel the weight of that ordinariness — and want to hold it well.
         </p>
 
         <p className="text-ink/85 leading-[1.85] text-[1.0625rem]">
-          I&apos;m reformed in my theology, shaped by the patristic authors and the great
-          tradition of the church, and convinced that Christ-centred preaching and prayer are the
-          engine room of everything. I love good liturgy, honest conversation, and the kind of
-          ministry that doesn&apos;t make the news.
-        </p>
-
-        <p className="text-ink/85 leading-[1.85] text-[1.0625rem]">
-          If you&apos;d like me to preach at your church or speak at an event, I&apos;d love to
-          hear from you.
+          I&apos;m married to Katherine, and we have two daughters, Elizabeth and Aliyah.
         </p>
       </div>
 
