@@ -21,7 +21,7 @@ export default function HomePage() {
             Pastor, preacher, and ordinary follower of Jesus. Writing on ministry,
             the Christian life, and what it means to be faithful in the small things.
           </p>
-          <div className="flex flex-wrap gap-3">
+          <div className="flex flex-col sm:flex-row sm:flex-wrap gap-3">
             <Link
               href="/connect"
               className="bg-sapphire text-glasslight text-sm font-medium px-6 py-3 rounded hover:opacity-90 transition-opacity text-center"
@@ -44,7 +44,7 @@ export default function HomePage() {
               href="/connect#invite"
               className="border border-stone-border text-ink text-sm px-6 py-3 rounded hover:border-sapphire/40 transition-colors text-center"
             >
-              Invite me to Preach
+              Invite me to preach
             </Link>
           </div>
         </div>
