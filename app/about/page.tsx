@@ -4,7 +4,12 @@ import Link from 'next/link'
 export const metadata: Metadata = {
   title: 'About',
   description:
-    'Nick Lockwood is a Baptist pastor based in Harrisdale, Western Australia. Writing on ministry, ordinary faithfulness, and the Christian life.',
+    'Nick Lockwood is a Baptist pastor, preacher, and writer based in Perth, Western Australia — committed to ordinary faithfulness, Christ-centred preaching, and the long work of ministry.',
+  openGraph: {
+    title: 'About Nick Lockwood — The Ordinary Pastor',
+    description:
+      'Pastor, preacher, and ordinary follower of Jesus. Reformed in theology, shaped by the great tradition, and convinced that faithfulness — not fame — is what God asks of most of us.',
+  },
 }
 
 export default function AboutPage() {
@@ -61,7 +66,7 @@ export default function AboutPage() {
           Invite me to preach
         </Link>
         <a
-          href="mailto:nicholas.lockwood@careychurch.asn.au"
+          href="mailto:lockwood.nicholas@gmail.com"
           className="border border-stone-border text-ink text-sm px-6 py-3 rounded hover:border-sapphire/40 transition-colors text-center"
         >
           Get in touch

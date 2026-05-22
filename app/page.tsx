@@ -1,7 +1,19 @@
+import type { Metadata } from 'next'
 import Link from 'next/link'
 import PostCard from '@/components/PostCard'
 import TestimonialCarousel from '@/components/TestimonialCarousel'
 import { getAllPosts } from '@/lib/posts'
+
+export const metadata: Metadata = {
+  title: { absolute: 'The Ordinary Pastor — Nick Lockwood' },
+  description:
+    'Nick Lockwood — Baptist pastor, preacher, and writer based in Perth, WA. Writing on ministry, ordinary faithfulness, and what it means to follow Jesus in the small things.',
+  openGraph: {
+    title: 'The Ordinary Pastor — Nick Lockwood',
+    description:
+      'Ordinary people. Extraordinary God. Writing on ministry, the Christian life, and faithful preaching from Perth, WA.',
+  },
+}
 
 export default function HomePage() {
   const posts = getAllPosts().slice(0, 3)
@@ -45,6 +57,31 @@ export default function HomePage() {
               className="border border-stone-border text-ink text-sm px-6 py-3 rounded hover:border-sapphire/40 transition-colors text-center"
             >
               Invite me to preach
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* About preview */}
+      <section className="bg-warmwhite border-b border-stone-border py-14 px-6">
+        <div className="max-w-4xl mx-auto flex flex-col sm:flex-row gap-8 items-start">
+          <div className="w-16 h-16 rounded-full bg-stone-200 shrink-0 overflow-hidden">
+            {/* Photo goes here */}
+          </div>
+          <div>
+            <p className="text-xs uppercase tracking-widest text-mortar font-sans mb-3">
+              About the author
+            </p>
+            <p className="text-ink/85 leading-[1.85] text-[1.0625rem] mb-4 max-w-xl">
+              I&apos;m Nick — a Baptist pastor in Perth, WA, shaped by the Reformed tradition and
+              convinced that ordinary faithfulness is what God asks of most of us. I write for
+              pastors and church people who want to hold well the weight of ordinary ministry.
+            </p>
+            <Link
+              href="/about"
+              className="text-sapphire text-sm hover:underline underline-offset-2"
+            >
+              More about me &rarr;
             </Link>
           </div>
         </div>
