@@ -15,25 +15,36 @@ export default function HomePage() {
             Nick Lockwood &middot; Perth, WA
           </p>
           <h1 className="font-serif text-ink text-4xl md:text-5xl font-medium leading-tight mb-5 max-w-xl">
-            Ordinary faithfulness.<br />
-            Extraordinary grace.
+            Ordinary people. Extraordinary God.
           </h1>
           <p className="text-mortar text-base md:text-lg leading-relaxed mb-8 max-w-lg">
             Pastor, preacher, and ordinary follower of Jesus. Writing on ministry,
             the Christian life, and what it means to be faithful in the small things.
           </p>
-          <div className="flex flex-col sm:flex-row gap-3">
+          <div className="flex flex-wrap gap-3">
             <Link
-              href="/connect#invite"
+              href="/connect"
               className="bg-sapphire text-glasslight text-sm font-medium px-6 py-3 rounded hover:opacity-90 transition-opacity text-center"
             >
-              Invite me to preach
+              Let&rsquo;s Connect
+            </Link>
+            <Link
+              href="/bible-talks"
+              className="border border-stone-border text-ink text-sm px-6 py-3 rounded hover:border-sapphire/40 transition-colors text-center"
+            >
+              Bible Talks
             </Link>
             <Link
               href="/blog"
               className="border border-stone-border text-ink text-sm px-6 py-3 rounded hover:border-sapphire/40 transition-colors text-center"
             >
-              Read the blog
+              Blog
+            </Link>
+            <Link
+              href="/connect#invite"
+              className="border border-stone-border text-ink text-sm px-6 py-3 rounded hover:border-sapphire/40 transition-colors text-center"
+            >
+              Invite me to Preach
             </Link>
           </div>
         </div>

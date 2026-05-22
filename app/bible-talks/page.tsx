@@ -58,10 +58,10 @@ export default function BibleTalksPage() {
             Bible Talks
           </p>
           <h1 className="font-serif text-4xl md:text-5xl text-ink mb-5">
-            Preaching from the ordinary pulpit
+            Ordinary Preaching, Extraordinary Word
           </h1>
           <p className="text-lg text-mortar leading-relaxed max-w-xl">
-            Expository sermons for ordinary people — working through Scripture with care, honesty, and a deep belief that the text has something to say to us today.
+            Expository sermons for ordinary people — working through Scripture with care, honesty, and a deep belief that God speaks to us today.
           </p>
         </div>
       </section>
