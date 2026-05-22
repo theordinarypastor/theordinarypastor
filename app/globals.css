@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: var(--font-inter), system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-lora), Georgia, serif;
+  }
+
+  ::selection {
+    background-color: #2B4F8C;
+    color: #E8EFF8;
+  }
+}
+
+@layer utilities {
+  .prose-reading p {
+    margin-bottom: 1.4em;
+    line-height: 1.85;
+    font-size: 1.0625rem;
+    color: rgba(26, 23, 20, 0.85);
+  }
+}
