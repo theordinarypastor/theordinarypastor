@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Image from 'next/image'
 import Link from 'next/link'
 import PostCard from '@/components/PostCard'
 import TestimonialCarousel from '@/components/TestimonialCarousel'
@@ -65,8 +66,14 @@ export default function HomePage() {
       {/* About preview */}
       <section className="bg-warmwhite border-b border-stone-border py-14 px-6">
         <div className="max-w-4xl mx-auto flex flex-col sm:flex-row gap-8 items-start">
-          <div className="w-16 h-16 rounded-full bg-stone-200 shrink-0 overflow-hidden">
-            {/* Photo goes here */}
+          <div className="w-16 h-16 rounded-full shrink-0 overflow-hidden">
+            <Image
+              src="/headshot.jpg"
+              alt="Nick Lockwood"
+              width={64}
+              height={64}
+              className="object-cover w-full h-full"
+            />
           </div>
           <div>
             <p className="text-xs uppercase tracking-widest text-mortar font-sans mb-3">
