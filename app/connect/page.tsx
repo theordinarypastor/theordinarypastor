@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: "Let's Connect",
@@ -20,28 +21,6 @@ export default function ConnectPage() {
       </p>
 
       <div className="space-y-5">
-        {/* Preaching invitation */}
-        <div
-          id="invite"
-          className="border border-stone-border rounded-lg p-6 md:p-8 bg-warmwhite scroll-mt-24"
-        >
-          <h2 className="font-serif text-ink text-xl font-medium mb-3">
-            Invite me to preach
-          </h2>
-          <p className="text-mortar text-sm leading-relaxed mb-6">
-            I&apos;m available to preach at churches, conferences, camps, and other ministry
-            events. I preach expository, Christ-centred sermons from across the whole Bible,
-            suited to the congregation you&apos;re serving. I&apos;m based in Perth, WA, but
-            available to travel.
-          </p>
-          <a
-            href="mailto:lockwood.nicholas@gmail.com?subject=Preaching%20Invitation"
-            className="bg-sapphire text-glasslight text-sm px-5 py-2.5 rounded hover:opacity-90 transition-opacity inline-block"
-          >
-            Send a preaching invitation
-          </a>
-        </div>
-
         {/* General enquiries */}
         <div className="border border-stone-border rounded-lg p-6 md:p-8 bg-warmwhite">
           <h2 className="font-serif text-ink text-xl font-medium mb-3">
@@ -57,6 +36,28 @@ export default function ConnectPage() {
           >
             lockwood.nicholas@gmail.com &rarr;
           </a>
+        </div>
+
+        {/* Preaching invitation */}
+        <div
+          id="invite"
+          className="border border-stone-border rounded-lg p-6 md:p-8 bg-warmwhite scroll-mt-24"
+        >
+          <h2 className="font-serif text-ink text-xl font-medium mb-3">
+            Invite me to preach
+          </h2>
+          <p className="text-mortar text-sm leading-relaxed mb-6">
+            I&apos;m available to preach at churches, conferences, camps, and other ministry
+            events. I preach expository, Christ-centred sermons from across the whole Bible,
+            suited to the congregation you&apos;re serving. I&apos;m based in Perth, WA, but
+            available to travel.
+          </p>
+          <Link
+            href="/invite"
+            className="bg-sapphire text-glasslight text-sm px-5 py-2.5 rounded hover:opacity-90 transition-opacity inline-block"
+          >
+            Send a preaching invitation
+          </Link>
         </div>
 
         {/* AFES placeholder — uncomment when needed */}
