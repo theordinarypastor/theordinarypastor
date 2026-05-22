@@ -81,7 +81,7 @@ export default function HomePage() {
             <p className="text-ink/85 leading-[1.85] text-[1.0625rem] mb-4 max-w-xl">
               I&apos;m Nick — a once Anglican, now Baptist pastor in Perth, shaped by the
               evangelical tradition and convinced that ordinary, knocked-around jars of clay are
-              the kind of people God enjoys, and works through. I&apos;m all for pastors and
+              the kind of people God enjoys, and enjoys working through. I&apos;m all for pastors and
               people who want to be&hellip; ordinary. Walking with the God of the extraordinary.
             </p>
             <Link
