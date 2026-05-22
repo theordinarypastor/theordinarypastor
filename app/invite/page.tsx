@@ -37,8 +37,8 @@ export default function InvitePage() {
           <p className="text-mortar leading-relaxed mb-8">
             Your invitation has been received. I&apos;ll be in touch as soon as I can.
           </p>
-          <Link href="/connect" className="text-sapphire text-sm hover:underline underline-offset-2">
-            &larr; Back to Connect
+          <Link href="/blog" className="text-sapphire text-sm hover:underline underline-offset-2">
+            Read the blog &rarr;
           </Link>
         </div>
       </div>
