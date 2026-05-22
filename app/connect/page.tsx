@@ -24,7 +24,7 @@ export default function ConnectPage() {
         {/* General enquiries */}
         <div className="border border-stone-border rounded-lg p-6 md:p-8 bg-warmwhite">
           <h2 className="font-serif text-ink text-xl font-medium mb-3">
-            General enquiries
+            Touching base
           </h2>
           <p className="text-mortar text-sm leading-relaxed mb-5">
             For questions about the blog, ministry conversations, or anything else — feel free to
