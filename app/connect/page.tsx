@@ -35,7 +35,7 @@ export default function ConnectPage() {
             available to travel.
           </p>
           <a
-            href="mailto:nicholas.lockwood@careychurch.asn.au?subject=Preaching invitation"
+            href="mailto:lockwood.nicholas@gmail.com?subject=Preaching%20Invitation"
             className="bg-sapphire text-glasslight text-sm px-5 py-2.5 rounded hover:opacity-90 transition-opacity inline-block"
           >
             Send a preaching invitation
@@ -52,10 +52,10 @@ export default function ConnectPage() {
             reach out directly.
           </p>
           <a
-            href="mailto:nicholas.lockwood@careychurch.asn.au"
+            href="mailto:lockwood.nicholas@gmail.com"
             className="text-sapphire text-sm hover:underline underline-offset-2"
           >
-            nicholas.lockwood@careychurch.asn.au &rarr;
+            lockwood.nicholas@gmail.com &rarr;
           </a>
         </div>
 
