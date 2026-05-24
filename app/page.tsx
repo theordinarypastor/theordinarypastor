@@ -31,7 +31,7 @@ export default function HomePage() {
             Ordinary people. Extraordinary God.
           </h1>
           <p className="text-mortar text-base md:text-lg leading-relaxed mb-8 max-w-lg">
-            Pastor, preacher, mentor<br className="hidden sm:block" /> and ordinary follower of Jesus.
+            Pastor, preacher, mentor and ordinary follower of Jesus.
           </p>
           <div className="flex flex-col sm:flex-row sm:flex-wrap gap-3">
             <Link
