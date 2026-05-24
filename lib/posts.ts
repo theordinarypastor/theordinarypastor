@@ -47,11 +47,12 @@ So here's the question I'm wondering about for you: *Do you think God feels prou
 
 In *any* part of your life? Even if it's not *every* part of it?
 
-Might you sit with that for a moment?
+I wonder if that's worth sitting with for a moment?
 
 ---
 
 *In the ordinary,*
+
 *Nicholas*
 
 ---
