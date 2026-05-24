@@ -19,7 +19,7 @@ export const posts: Post[] = [
 
 There's a quote often misattributed to C.S. Lewis that goes: "There's one thing more important than what we think of God, and that is what God thinks of us." And whether Lewis said it or not, I certainly think it's true. But I wonder if we could also say that *there's something more important than how we feel about God, and that's how God feels about us.*
 
-What got me wondering about this? It was a disturbing experience I had while teaching our RISE Theology and Ministry students a while back.
+What got me wondering about this? It was a disturbing experience I had while teaching our [RISE Theology and Ministry](https://www.careychurch.asn.au/rise/) students a while back.
 
 In our pastoral care unit, we help our people through the process of empathetic listening. They have a feelings wheel in hand, and as they hear a story shared in pairs, they notice how they're feeling — then ask the person sharing if it was how they felt, in order to test their hunch. They then look for a moment in the life of Jesus when he might have felt something similar.\*
 
@@ -39,7 +39,7 @@ Did I feel like God was proud of me? Of my character, my marriage, my family, th
 
 I had to be honest — it had never once crossed my mind that my Father in Heaven would be proud of me. For anything.\*\* So I sat with it, and we went looking for a moment in the Gospels when Jesus felt proud of his disciples. Long story short, we found one, and then he prayed for me. It was a simple prayer for something I'd not considered possible:
 
-> "Father, thank you that you and Jesus are so proud of Nick. Thanks for all he's done and taught us about yourself, he's really blessed us and definitely changed my life. Please help him know how proud you are of him, by your Spirit. In Jesus' name, Amen."
+*"Father, thank you that you and Jesus are so proud of Nick. Thanks for all he's done and taught us about yourself, he's really blessed us and definitely changed my life. Please help him know how proud you are of him, by your Spirit. In Jesus' name, Amen."*
 
 The Lord was gracious enough to answer it.
 
