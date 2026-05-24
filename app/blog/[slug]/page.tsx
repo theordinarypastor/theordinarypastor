@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
+import ReactMarkdown from 'react-markdown'
 import { getPostBySlug, getAllPosts } from '@/lib/posts'
 
 interface Props {
@@ -51,15 +52,32 @@ export default function BlogPostPage({ params }: Props) {
 
       <div className="w-8 h-px bg-sapphire mb-10" />
 
-      <div className="space-y-[1.4em]">
-        {paragraphs.map((para, i) => (
-          <p
-            key={i}
-            className="text-ink/85 leading-[1.85] text-[1.0625rem]"
-          >
-            {para}
-          </p>
-        ))}
+      <div className="prose-custom">
+        <ReactMarkdown
+          components={{
+            p: ({ children }) => (
+              <p className="text-ink/85 leading-[1.85] text-[1.0625rem] mb-[1.4em]">{children}</p>
+            ),
+            strong: ({ children }) => (
+              <strong className="font-semibold text-ink">{children}</strong>
+            ),
+            em: ({ children }) => (
+              <em className="italic">{children}</em>
+            ),
+            blockquote: ({ children }) => (
+              <blockquote className="border-l-2 border-sapphire/40 pl-5 my-6 text-mortar italic">
+                {children}
+              </blockquote>
+            ),
+            a: ({ href, children }) => (
+              <a href={href} className="text-sapphire hover:underline underline-offset-2">
+                {children}
+              </a>
+            ),
+          }}
+        >
+          {post!.content}
+        </ReactMarkdown>
       </div>
 
       <div className="mt-16 pt-8 border-t border-stone-border flex justify-between items-center">
