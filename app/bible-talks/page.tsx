@@ -12,7 +12,7 @@ const talks = [
     scripture: 'Matthew 27:31b–56',
     description: 'A Good Friday sermon on the cross — what happened there, and why it changes everything.',
     tag: 'Good Friday',
-    url: 'https://www.youtube.com/watch?v=E6kufZ9c8M8',
+    url: 'https://www.youtube.com/watch?v=E6kufZ9c8M8&t=3221s',
   },
   {
     youtubeId: 'GugO80hjxsI',
@@ -20,7 +20,7 @@ const talks = [
     scripture: 'John 4',
     description: 'On the woman at the well, honest conversations, and why our weakness is actually our greatest evangelistic asset.',
     tag: 'Evangelism',
-    url: 'https://www.youtube.com/watch?v=GugO80hjxsI',
+    url: 'https://www.youtube.com/watch?v=GugO80hjxsI&t=3801s',
   },
   {
     youtubeId: 'S_dsPeZ9hAU',
@@ -36,7 +36,7 @@ const talks = [
     scripture: 'Joshua 2',
     description: 'An Old Testament narrative sermon on faith, risk, and the surprising grace of God toward outsiders.',
     tag: 'Old Testament',
-    url: 'https://www.youtube.com/watch?v=Q4qndVVsBV0',
+    url: 'https://youtu.be/Q4qndVVsBV0',
   },
   {
     youtubeId: 'HxV1yASUYCM',
