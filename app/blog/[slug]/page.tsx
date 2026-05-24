@@ -70,7 +70,7 @@ export default function BlogPostPage({ params }: Props) {
               </blockquote>
             ),
             a: ({ href, children }) => (
-              <a href={href} className="text-sapphire hover:underline underline-offset-2">
+              <a href={href} target="_blank" rel="noopener noreferrer" className="text-sapphire hover:underline underline-offset-2">
                 {children}
               </a>
             ),

@@ -21,7 +21,7 @@ There's a quote often misattributed to C.S. Lewis that goes: "There's one thing 
 
 What got me wondering about this? It was a disturbing experience I had while teaching our [RISE Theology and Ministry](https://www.careychurch.asn.au/rise/) students a while back.
 
-In our pastoral care unit, we help our people through the process of empathetic listening. They have a feelings wheel in hand, and as they hear a story shared in pairs, they notice how they're feeling — then ask the person sharing if it was how they felt, in order to test their hunch. They then look for a moment in the life of Jesus when he might have felt something similar.\*
+In our pastoral care unit, we help our people through the process of empathetic listening. They have a feelings wheel in hand, and as they hear a story shared in pairs, they notice how they're feeling — then ask the person sharing if it was how they felt, in order to test their hunch. They then look for a moment in the life of Jesus when he might have felt something similar.\\*
 
 We had an odd number of people that day, so I partnered with one of our young adults — and before I could get things started he said, "You share!"
 
@@ -37,7 +37,7 @@ It was my turn to pause, a little confused.
 
 Did I feel like God was proud of me? Of my character, my marriage, my family, the way I pursued friendship and accountability and prayer? Did I feel like God was proud of the work I'd done with my team and the culture we'd built together with Jesus at the centre?
 
-I had to be honest — it had never once crossed my mind that my Father in Heaven would be proud of me. For anything.\*\* So I sat with it, and we went looking for a moment in the Gospels when Jesus felt proud of his disciples. Long story short, we found one, and then he prayed for me. It was a simple prayer for something I'd not considered possible:
+I had to be honest — it had never once crossed my mind that my Father in Heaven would be proud of me. For anything.\\*\\* So I sat with it, and we went looking for a moment in the Gospels when Jesus felt proud of his disciples. Long story short, we found one, and then he prayed for me. It was a simple prayer for something I'd not considered possible:
 
 *"Father, thank you that you and Jesus are so proud of Nick. Thanks for all he's done and taught us about yourself, he's really blessed us and definitely changed my life. Please help him know how proud you are of him, by your Spirit. In Jesus' name, Amen."*
 
@@ -57,9 +57,9 @@ I wonder if that's worth sitting with for a moment?
 
 ---
 
-\* As the saying goes: "That which is most personal is most universal, and what's most universal is most personal."
+\\* As the saying goes: "That which is most personal is most universal, and what's most universal is most personal."
 
-\*\* There's a lot to say about my own earthly father, but that's for another time!`,
+\\*\\* There's a lot to say about my own earthly father, but that's for another time!`,
   },
   {
     slug: 'on-preaching-to-ordinary-people',
