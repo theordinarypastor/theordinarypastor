@@ -67,17 +67,19 @@ export default function TestimonialCarousel() {
       <div className="max-w-2xl mx-auto text-center">
         <div className="w-8 h-px bg-sapphire mx-auto mb-12" />
 
-        <div
-          className="transition-opacity duration-300"
+        <button
+          onClick={() => goTo((current + 1) % testimonials.length)}
+          className="w-full text-left cursor-pointer group transition-opacity duration-300 focus:outline-none"
           style={{ opacity: visible ? 1 : 0, minHeight: '140px' }}
+          aria-label="Next testimonial"
         >
-          <blockquote className="font-serif text-glasslight text-lg md:text-xl leading-relaxed italic mb-6">
+          <blockquote className="font-serif text-glasslight text-lg md:text-xl leading-relaxed italic mb-6 group-hover:text-white transition-colors duration-200">
             &ldquo;{t.quote}&rdquo;
           </blockquote>
-          <p className="text-[#7A8EA8] text-sm tracking-wide">
+          <p className="text-[#7A8EA8] text-sm tracking-wide group-hover:text-[#a0b4c8] transition-colors duration-200">
             &mdash; {t.name}, {t.church}, {t.location}
           </p>
-        </div>
+        </button>
 
         {/* Dot navigation */}
         <div className="flex justify-center gap-2 mt-10" role="tablist" aria-label="Testimonials">
