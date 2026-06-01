@@ -79,15 +79,15 @@ We were in church one Sunday in this crazy season of life, working through Prove
 
 *"My son, do not despise the Lord's discipline, and do not resent his rebuke, because the Lord disciplines those he loves, as a father the son he delights in."*
 
-Of course my mind went back to the Davidic covenant in 2 Samuel 7:14, and then forward to Jesus the Son of David, disciplined on our behalf at the cross.
+Of course my mind went back to the Davidic covenant in 2 Samuel 7:14, and then forward to Jesus the Son of David, disciplined on our behalf on the cross.
 
-But I'd never considered the sufferings of Christ bringing pleasure to the Father. Grief and anguish, of course. Pleasure? Never.
+But I'd never considered the sufferings of Christ bringing *pleasure* to the Father. Grief and anguish, of course. *Pleasure*? Never.
 
-And as I was meditating on this during the sermon (even we pastors get distracted during sermons!), I got to thinking about my next door neighbour whose best mate is a world class kick-boxer. His dad is his coach. We always know when it's fight-night because all the lads get together next door and you can hear the cheers and groans a suburb away. So I found myself imagining this young fighter's dad, feeling every blow. Anyone with a suffering loved one knows it's harder to watch than to suffer yourself; how could it be love if it was otherwise? But at the same time: how proud, how pleased would this dad feel, watching his son's skill and character on display in the ring? The capacity to persevere in pain. The pleasure of a perfectly landed blow, the fruit of thousands of hours of training.
+And as I was meditating on this during the sermon (even we pastors get distracted during sermons!), I got to thinking about my neighbour whose best mate is a world class kick-boxer. His dad is his coach. We always know when it's fight-night because all the lads get together next door and you can hear the cheers and groans a suburb away. So I found myself imagining this young fighter's dad, feeling every blow. Anyone with a suffering loved one knows it's harder to watch than to suffer yourself; how could it be love if it was otherwise? But at the same time: how proud, how pleased would this dad feel, watching his son's skill and character on display in the ring? The capacity to persevere in pain. The pleasure of a perfectly landed blow, the fruit of thousands of hours of training.
 
 It's possible to feel more than one emotion at a time, don't you think? Pain, and pride. Grief, and gratitude. Fear, and confidence that the grace that brought us safe thus far will surely bring us home.
 
-Is it not also possible to imagine that, in the cross, alongside the anguish and grief the Father also felt pleasure in the Son's sinless, faithful, enduring, persevering, perfect obedience in his sufferings?
+Is it not also possible to imagine that, in the cross, alongside the anguish and grief, the Father also felt pleasure in the Son's sinless, faithful, enduring, persevering, perfect obedience in his sufferings?
 
 And as his perfections are all ours by grace with our sin not counted against us, in that moment on that Sunday during worship it struck me that my grace-fuelled perseverance through this brutal season of life actually *pleased* our heavenly Father.
 
@@ -95,7 +95,7 @@ I was as deeply moved as I was thankful. I was no victim to my circumstances or 
 
 His severe mercies are always gracious judgements.
 
-He disciplines those in whom is his delight.
+He disciplines those in whom is his *delight*.
 
 ---
 
