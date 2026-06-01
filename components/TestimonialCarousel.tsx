@@ -51,7 +51,7 @@ const testimonials: Testimonial[] = [
   },
   {
     quote:
-      "Nick is an encouraging and generous mentor. I grew up in a non-Christian family, but reading the Bible with him changed my life forever — it was how I came to faith. I've since had the privilege of serving alongside him and discipling others myself.",
+      "Nick is an encouraging and generous mentor. I grew up in a non-Christian family, but reading the Bible with him one-to-one changed my life forever — it was how I came to faith. I've since had the privilege of serving alongside him and discipling others myself.",
     name: 'James Batt',
     church: 'Future son-in-law, uni student & Senior Leader, Carey Youth',
     location: 'Perth',
