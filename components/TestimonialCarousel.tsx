@@ -9,35 +9,45 @@ interface Testimonial {
   location: string
 }
 
-// Replace these placeholders with real quotes from your pastor friends
+// Placeholder testimonials (kept for style/structure reference):
+// {
+//   quote: 'Nick brings genuine warmth and theological depth to every pulpit he visits. Our congregation was genuinely fed — the kind of preaching that stays with you.',
+//   name: '[Pastor Name]', church: '[Church Name]', location: 'Sydney',
+// },
+// {
+//   quote: "One of the most honest, unflashy preachers I know. Nick doesn't try to impress — he just opens the Word faithfully, and God does the rest.",
+//   name: '[Pastor Name]', church: '[Church Name]', location: 'Melbourne',
+// },
+// {
+//   quote: "We've had Nick preach at our church twice now and would have him back in a heartbeat. He has a rare gift for making the gospel feel both ancient and completely alive.",
+//   name: '[Pastor Name]', church: '[Church Name]', location: 'Brisbane',
+// },
+// {
+//   quote: "Nick preaches with conviction and gentleness in equal measure. He clearly loves the people he's preaching to — and it shows.",
+//   name: '[Pastor Name]', church: '[Church Name]', location: 'Adelaide',
+// },
+
 const testimonials: Testimonial[] = [
   {
     quote:
-      'Nick brings genuine warmth and theological depth to every pulpit he visits. Our congregation was genuinely fed — the kind of preaching that stays with you.',
-    name: '[Pastor Name]',
-    church: '[Church Name]',
+      "Growing up with Dad and leading alongside him at Carey, I'd say he's a wise, unashamedly honest and relational leader whose passion for God's kingdom runs through every part of life. Especially the way he leads, disciples, preaches and thinks.",
+    name: 'Aliyah Lockwood',
+    church: 'Senior Leader, Carey Youth',
+    location: 'Perth',
+  },
+  {
+    quote:
+      "I've got to know Nick over the last few years through ministry training, and he's done impressive work in getting the RISE internship program up and running across Carey Baptist and a network of churches south of the river. There's been wonderful fruit through his ministry and I've especially valued his camaraderie and friendship, as well as his strategic and insightful (not to mention incisive!) thinking.",
+    name: 'Dr Damon Sokolowski',
+    church: 'Training Director, Great Southern Training Hub',
+    location: 'Albany',
+  },
+  {
+    quote:
+      "I've had the privilege of working with Nick as his supervisor for the postgrad study he is doing here at Morling, focusing on what we can learn about the compassion and sympathy of God from John Chrysostom's sermons on Matthew and 2 Corinthians, and the implications for our preaching and ministry. It has been a delight to learn with him about these big, important topics, and to grow in my own understanding through our conversations.",
+    name: 'David Starling',
+    church: 'Vice-Principal (Academic) and Lecturer in NT, Morling College',
     location: 'Sydney',
-  },
-  {
-    quote:
-      "One of the most honest, unflashy preachers I know. Nick doesn't try to impress — he just opens the Word faithfully, and God does the rest.",
-    name: '[Pastor Name]',
-    church: '[Church Name]',
-    location: 'Melbourne',
-  },
-  {
-    quote:
-      "We've had Nick preach at our church twice now and would have him back in a heartbeat. He has a rare gift for making the gospel feel both ancient and completely alive.",
-    name: '[Pastor Name]',
-    church: '[Church Name]',
-    location: 'Brisbane',
-  },
-  {
-    quote:
-      'Nick preaches with conviction and gentleness in equal measure. He clearly loves the people he\'s preaching to — and it shows.',
-    name: '[Pastor Name]',
-    church: '[Church Name]',
-    location: 'Adelaide',
   },
 ]
 

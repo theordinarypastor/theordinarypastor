@@ -62,12 +62,50 @@ I wonder if that's worth sitting with for a moment?
 \\*\\* There's a lot to say about my own earthly father, but that's for another time!`,
   },
   {
-    slug: 'on-preaching-to-ordinary-people',
-    title: 'Watch this space.',
+    slug: 'gods-pleasure-in-my-pain',
+    title: "God's pleasure in my pain",
     date: '28 Apr 2026',
-    excerpt: 'This post is on its way — check back in a couple of days.',
-    tag: 'Preaching',
-    content: `This post is on its way — check back in a couple of days.`,
+    excerpt: "Have you ever wondered how God feels about us in seasons of suffering?",
+    tag: 'Pastoral',
+    content: `Have you ever wondered how God feels about us in seasons of suffering?
+
+We've had a pretty rough run. My wife was diagnosed with cancer — the prognosis is excellent, though the road's been rough. I bought a new road bike, only to have a kid step out in front of a mate and me at speed; I ended up in hospital, the bike ended up in the bin. And a job I'd been headhunted for over six months fell over at the last moment — so I found myself job-hunting through it all. I don't say this as a flex. Many are far worse off, as I'm reminded daily in my prayers for the persecuted church.
+
+But it begs the question: how does God feel toward us as we suffer through the things he brings our way?
+
+Could it be that it pleases him?
+
+We were in church one Sunday in this crazy season of life, working through Proverbs 3, when I couldn't get past verses 11 and 12:
+
+*"My son, do not despise the Lord's discipline, and do not resent his rebuke, because the Lord disciplines those he loves, as a father the son he delights in."*
+
+Of course my mind went back to the Davidic covenant in 2 Samuel 7:14, and then forward to Jesus the Son of David, disciplined on our behalf at the cross.
+
+But I'd never considered the sufferings of Christ bringing pleasure to the Father. Grief and anguish, of course. Pleasure? Never.
+
+And as I was meditating on this during the sermon (even we pastors get distracted during sermons!), I got to thinking about my next door neighbour whose best mate is a world class kick-boxer. His dad is his coach. We always know when it's fight-night because all the lads get together next door and you can hear the cheers and groans a suburb away. So I found myself imagining this young fighter's dad, feeling every blow. Anyone with a suffering loved one knows it's harder to watch than to suffer yourself; how could it be love if it was otherwise? But at the same time: how proud, how pleased would this dad feel, watching his son's skill and character on display in the ring? The capacity to persevere in pain. The pleasure of a perfectly landed blow, the fruit of thousands of hours of training.
+
+It's possible to feel more than one emotion at a time, don't you think? Pain, and pride. Grief, and gratitude. Fear, and confidence that the grace that brought us safe thus far will surely bring us home.
+
+Is it not also possible to imagine that, in the cross, alongside the anguish and grief the Father also felt pleasure in the Son's sinless, faithful, enduring, persevering, perfect obedience in his sufferings?
+
+And as his perfections are all ours by grace with our sin not counted against us, in that moment on that Sunday during worship it struck me that my grace-fuelled perseverance through this brutal season of life actually *pleased* our heavenly Father.
+
+I was as deeply moved as I was thankful. I was no victim to my circumstances or to another's pity but, as C.S. Lewis puts it in *The Weight of Glory*: "a real ingredient in the divine happiness…not merely pitied, but delighted in as an artist delights in his work or a father in a son — it seems impossible, a weight or burden of glory which our thoughts can hardly sustain. But so it is."
+
+His severe mercies are always gracious judgements.
+
+He disciplines those in whom is his delight.
+
+---
+
+Have you ever taken the time to wonder how God feels about you in your seasons of suffering?
+
+---
+
+*In the ordinary,*
+
+*Nick*`,
   },
   {
     slug: 'why-i-stopped-trying-to-be-inspiring',
