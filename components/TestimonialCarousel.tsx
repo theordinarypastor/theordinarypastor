@@ -56,6 +56,13 @@ const testimonials: Testimonial[] = [
     church: 'Future son-in-law, uni student & Senior Leader, Carey Youth',
     location: 'Perth',
   },
+  {
+    quote:
+      'Nick is a guy who simply points people to Christ; patiently investing in their spiritual maturity, and raising up others to do the same work for the sake of the gospel – trusting that God alone gives the growth.',
+    name: 'Evan McFarlane',
+    church: "Rector, St Matthew's Anglican Church",
+    location: 'Shenton Park WA',
+  },
 ]
 
 export default function TestimonialCarousel() {
