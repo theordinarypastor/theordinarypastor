@@ -21,16 +21,25 @@ export default function HomePage() {
 
   return (
     <>
-      {/* Hero */}
-      <section className="bg-limestone border-b border-stone-border">
-        <div className="max-w-4xl mx-auto px-6 py-20 md:py-28">
-          <p className="text-mortar text-xs uppercase tracking-widest mb-6 font-sans">
+      {/* Hero — full-bleed background image */}
+      <section className="relative border-b border-stone-border overflow-hidden">
+        <Image
+          src="/clay-jars-hero2.jpg"
+          alt=""
+          fill
+          className="object-cover object-center"
+          priority
+        />
+        {/* Subtle dark scrim so text sits cleanly on the image */}
+        <div className="absolute inset-0 bg-black/30" />
+        <div className="relative max-w-4xl mx-auto px-6 py-20 md:py-28">
+          <p className="text-white/60 text-xs uppercase tracking-widest mb-6 font-sans">
             Nick Lockwood &middot; Perth, WA
           </p>
-          <h1 className="font-serif text-ink text-4xl md:text-5xl font-medium leading-tight mb-5 max-w-xl">
+          <h1 className="font-serif text-white text-4xl md:text-5xl font-medium leading-tight mb-5 max-w-xl">
             Ordinary people. Extraordinary God.
           </h1>
-          <p className="text-mortar text-base md:text-lg leading-relaxed mb-8 max-w-lg">
+          <p className="text-white/75 text-base md:text-lg leading-relaxed mb-8 max-w-lg">
             Pastor, preacher, mentor and ordinary follower of Jesus.
           </p>
           <div className="flex flex-col sm:flex-row sm:flex-wrap gap-3">
@@ -42,19 +51,19 @@ export default function HomePage() {
             </Link>
             <Link
               href="/bible-talks"
-              className="border border-stone-border text-ink text-sm px-6 py-3 rounded hover:border-sapphire/40 transition-colors text-center"
+              className="border border-white/40 text-white text-sm px-6 py-3 rounded hover:border-white/70 transition-colors text-center"
             >
               Bible Talks
             </Link>
             <Link
               href="/blog"
-              className="border border-stone-border text-ink text-sm px-6 py-3 rounded hover:border-sapphire/40 transition-colors text-center"
+              className="border border-white/40 text-white text-sm px-6 py-3 rounded hover:border-white/70 transition-colors text-center"
             >
               Blog
             </Link>
             <Link
               href="/connect#invite"
-              className="border border-stone-border text-ink text-sm px-6 py-3 rounded hover:border-sapphire/40 transition-colors text-center"
+              className="border border-white/40 text-white text-sm px-6 py-3 rounded hover:border-white/70 transition-colors text-center"
             >
               Invite me to preach
             </Link>

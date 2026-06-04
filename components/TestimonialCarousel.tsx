@@ -73,7 +73,7 @@ export default function TestimonialCarousel() {
   useEffect(() => {
     const timer = setInterval(() => {
       goTo((current + 1) % testimonials.length)
-    }, 10000)
+    }, 12000)
     return () => clearInterval(timer)
   }, [current, goTo])
 
