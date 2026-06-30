@@ -1,7 +1,6 @@
 import type { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
-import IconBadge, { PenAndPaperIcon } from '@/components/IconBadge'
 import PostCard from '@/components/PostCard'
 import PrayerSignup from '@/components/PrayerSignup'
 import TestimonialCarousel from '@/components/TestimonialCarousel'
@@ -76,7 +75,7 @@ export default function HomePage() {
       {/* About preview */}
       <section className="bg-warmwhite border-b border-stone-border py-14 px-6">
         <div className="max-w-4xl mx-auto flex flex-col sm:flex-row gap-8 items-start">
-          <div className="w-16 h-16 rounded-full shrink-0 overflow-hidden">
+          <span className="w-16 h-16 rounded-full shrink-0 overflow-hidden ring-2 ring-sapphire">
             <Image
               src="/headshot.jpg"
               alt="Nick Lockwood"
@@ -84,7 +83,7 @@ export default function HomePage() {
               height={64}
               className="object-cover w-full h-full"
             />
-          </div>
+          </span>
           <div>
             <p className="text-xs uppercase tracking-widest text-mortar font-sans mb-3">
               About the author
@@ -111,7 +110,15 @@ export default function HomePage() {
       {/* Recent posts */}
       <section className="bg-warmwhite py-14 px-6 border-b border-stone-border">
         <div className="max-w-4xl mx-auto flex flex-col sm:flex-row gap-8 items-start">
-          <IconBadge icon={<PenAndPaperIcon />} />
+          <span className="w-16 h-16 rounded-full shrink-0 overflow-hidden ring-2 ring-sapphire">
+            <Image
+              src="/writing_2_sapphire.png"
+              alt=""
+              width={64}
+              height={64}
+              className="object-cover w-full h-full"
+            />
+          </span>
           <div className="flex-1">
             <div className="flex items-baseline justify-between mb-8">
               <h2 className="font-serif text-ink text-xl font-medium">Recent writing</h2>
@@ -133,56 +140,6 @@ export default function HomePage() {
 
       {/* Testimonials */}
       <TestimonialCarousel />
-
-      {/* Quick links */}
-      <section className="bg-warmwhite py-14 px-6">
-        <div className="max-w-4xl mx-auto flex flex-wrap justify-center gap-10 sm:gap-16">
-          <Link href="/about" className="group flex flex-col items-center gap-3">
-            <span className="w-32 h-32 rounded-full overflow-hidden ring-2 ring-sapphire group-hover:ring-sapphire/60 transition-colors">
-              <Image
-                src="/headshot.jpg"
-                alt="Nick Lockwood"
-                width={128}
-                height={128}
-                className="object-cover w-full h-full"
-              />
-            </span>
-            <span className="text-sm text-ink/85 group-hover:text-sapphire transition-colors">
-              About
-            </span>
-          </Link>
-
-          <Link href="/connect" className="group flex flex-col items-center gap-3">
-            <span className="w-32 h-32 rounded-full overflow-hidden ring-2 ring-sapphire group-hover:ring-sapphire/60 transition-colors">
-              <Image
-                src="/prayer_2_sapphire.png"
-                alt="Partner with me in prayer"
-                width={128}
-                height={128}
-                className="object-cover w-full h-full"
-              />
-            </span>
-            <span className="text-sm text-ink/85 group-hover:text-sapphire transition-colors">
-              Prayer
-            </span>
-          </Link>
-
-          <Link href="/blog" className="group flex flex-col items-center gap-3">
-            <span className="w-32 h-32 rounded-full overflow-hidden ring-2 ring-sapphire group-hover:ring-sapphire/60 transition-colors">
-              <Image
-                src="/writing_2_sapphire.png"
-                alt="Read the blog"
-                width={128}
-                height={128}
-                className="object-cover w-full h-full"
-              />
-            </span>
-            <span className="text-sm text-ink/85 group-hover:text-sapphire transition-colors">
-              Writing
-            </span>
-          </Link>
-        </div>
-      </section>
     </>
   )
 }

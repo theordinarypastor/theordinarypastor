@@ -31,11 +31,40 @@ export default function ConnectPage() {
             reach out directly.
           </p>
           <a
-            href="mailto:lockwood.nicholas@gmail.com"
+            href="mailto:nicholas@theordinarypastor.com.au"
             className="text-sapphire text-sm hover:underline underline-offset-2"
           >
-            lockwood.nicholas@gmail.com &rarr;
+            nicholas@theordinarypastor.com.au &rarr;
           </a>
+        </div>
+
+        {/* Prayer partnership */}
+        <div className="border border-stone-border rounded-lg p-6 md:p-8 bg-warmwhite">
+          <h2 className="font-serif text-ink text-xl font-medium mb-3">
+            Would you like to join me in prayer?
+          </h2>
+          <p className="text-mortar text-sm leading-relaxed mb-5">
+            Each month I send a short letter — what I&apos;m thinking about, what to pray for. And
+            if there&apos;s ever something I can be praying for you too, just reply to any letter
+            and let me know.
+          </p>
+
+          {/* Placeholder form — swap for the Kit embed once the form ID is ready */}
+          <form className="flex flex-col sm:flex-row gap-3 max-w-md" action="#">
+            <input
+              type="email"
+              required
+              placeholder="you@example.com"
+              aria-label="Email address"
+              className="flex-1 bg-limestone border border-stone-border rounded px-4 h-11 text-sm text-ink placeholder:text-mortar focus:outline-none focus:border-sapphire transition-colors"
+            />
+            <button
+              type="submit"
+              className="bg-sapphire text-glasslight text-sm font-medium px-6 h-11 rounded hover:opacity-90 transition-opacity shrink-0"
+            >
+              I&apos;ll Pray
+            </button>
+          </form>
         </div>
 
         {/* Preaching invitation */}

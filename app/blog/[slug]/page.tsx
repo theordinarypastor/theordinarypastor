@@ -27,6 +27,31 @@ export default function BlogPostPage({ params }: Props) {
 
   const paragraphs = post.content.split('\n\n').filter(Boolean)
 
+  const markdownComponents = {
+    p: ({ children }: { children?: React.ReactNode }) => (
+      <p className="text-ink/85 leading-[1.85] text-[1.0625rem] mb-[1.4em]">{children}</p>
+    ),
+    strong: ({ children }: { children?: React.ReactNode }) => (
+      <strong className="font-semibold text-ink">{children}</strong>
+    ),
+    em: ({ children }: { children?: React.ReactNode }) => <em className="italic">{children}</em>,
+    blockquote: ({ children }: { children?: React.ReactNode }) => (
+      <blockquote className="border-l-2 border-sapphire/40 pl-5 my-6 text-mortar italic">
+        {children}
+      </blockquote>
+    ),
+    a: ({ href, children }: { href?: string; children?: React.ReactNode }) => (
+      <a
+        href={href}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-sapphire hover:underline underline-offset-2"
+      >
+        {children}
+      </a>
+    ),
+  }
+
   return (
     <article className="max-w-2xl mx-auto px-6 py-16 md:py-24">
       <Link
@@ -53,34 +78,31 @@ export default function BlogPostPage({ params }: Props) {
       <div className="w-8 h-px bg-sapphire mb-10" />
 
       <div className="prose-custom">
-        <ReactMarkdown
-          components={{
-            p: ({ children }) => (
-              <p className="text-ink/85 leading-[1.85] text-[1.0625rem] mb-[1.4em]">{children}</p>
-            ),
-            strong: ({ children }) => (
-              <strong className="font-semibold text-ink">{children}</strong>
-            ),
-            em: ({ children }) => (
-              <em className="italic">{children}</em>
-            ),
-            blockquote: ({ children }) => (
-              <blockquote className="border-l-2 border-sapphire/40 pl-5 my-6 text-mortar italic">
-                {children}
-              </blockquote>
-            ),
-            a: ({ href, children }) => (
-              <a href={href} target="_blank" rel="noopener noreferrer" className="text-sapphire hover:underline underline-offset-2">
-                {children}
-              </a>
-            ),
-          }}
-        >
-          {post!.content}
-        </ReactMarkdown>
+        <ReactMarkdown components={markdownComponents}>{post!.content}</ReactMarkdown>
       </div>
 
-      <div className="mt-16 pt-8 border-t border-stone-border flex justify-between items-center">
+      <p className="mt-10 text-mortar text-sm font-light">
+        <Link href="/#prayer" className="hover:text-ink transition-colors underline underline-offset-2">
+          Would you like to partner with me in prayer?
+        </Link>
+      </p>
+
+      {post!.footnotes && (
+        <div className="prose-custom mt-10 pt-6 border-t border-stone-border">
+          <ReactMarkdown
+            components={{
+              ...markdownComponents,
+              p: ({ children }: { children?: React.ReactNode }) => (
+                <p className="text-mortar text-sm leading-relaxed mb-3">{children}</p>
+              ),
+            }}
+          >
+            {post!.footnotes}
+          </ReactMarkdown>
+        </div>
+      )}
+
+      <div className="mt-8 pt-8 border-t border-stone-border flex justify-between items-center">
         <Link
           href="/blog"
           className="text-sapphire text-sm hover:underline underline-offset-2"
