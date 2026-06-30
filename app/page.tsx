@@ -1,7 +1,9 @@
 import type { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
+import IconBadge, { PenAndPaperIcon } from '@/components/IconBadge'
 import PostCard from '@/components/PostCard'
+import PrayerSignup from '@/components/PrayerSignup'
 import TestimonialCarousel from '@/components/TestimonialCarousel'
 import { getAllPosts } from '@/lib/posts'
 
@@ -103,28 +105,84 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Prayer partnership signup */}
+      <PrayerSignup />
+
       {/* Recent posts */}
       <section className="bg-warmwhite py-14 px-6 border-b border-stone-border">
-        <div className="max-w-4xl mx-auto">
-          <div className="flex items-baseline justify-between mb-8">
-            <h2 className="font-serif text-ink text-xl font-medium">Recent writing</h2>
-            <Link
-              href="/blog"
-              className="text-sapphire text-sm hover:underline underline-offset-2"
-            >
-              All posts &rarr;
-            </Link>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-            {posts.map((post) => (
-              <PostCard key={post.slug} post={post} />
-            ))}
+        <div className="max-w-4xl mx-auto flex flex-col sm:flex-row gap-8 items-start">
+          <IconBadge icon={<PenAndPaperIcon />} />
+          <div className="flex-1">
+            <div className="flex items-baseline justify-between mb-8">
+              <h2 className="font-serif text-ink text-xl font-medium">Recent writing</h2>
+              <Link
+                href="/blog"
+                className="text-sapphire text-sm hover:underline underline-offset-2"
+              >
+                All posts &rarr;
+              </Link>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+              {posts.map((post) => (
+                <PostCard key={post.slug} post={post} />
+              ))}
+            </div>
           </div>
         </div>
       </section>
 
       {/* Testimonials */}
       <TestimonialCarousel />
+
+      {/* Quick links */}
+      <section className="bg-warmwhite py-14 px-6">
+        <div className="max-w-4xl mx-auto flex flex-wrap justify-center gap-10 sm:gap-16">
+          <Link href="/about" className="group flex flex-col items-center gap-3">
+            <span className="w-32 h-32 rounded-full overflow-hidden ring-2 ring-sapphire group-hover:ring-sapphire/60 transition-colors">
+              <Image
+                src="/headshot.jpg"
+                alt="Nick Lockwood"
+                width={128}
+                height={128}
+                className="object-cover w-full h-full"
+              />
+            </span>
+            <span className="text-sm text-ink/85 group-hover:text-sapphire transition-colors">
+              About
+            </span>
+          </Link>
+
+          <Link href="/connect" className="group flex flex-col items-center gap-3">
+            <span className="w-32 h-32 rounded-full overflow-hidden ring-2 ring-sapphire group-hover:ring-sapphire/60 transition-colors">
+              <Image
+                src="/prayer_2_sapphire.png"
+                alt="Partner with me in prayer"
+                width={128}
+                height={128}
+                className="object-cover w-full h-full"
+              />
+            </span>
+            <span className="text-sm text-ink/85 group-hover:text-sapphire transition-colors">
+              Prayer
+            </span>
+          </Link>
+
+          <Link href="/blog" className="group flex flex-col items-center gap-3">
+            <span className="w-32 h-32 rounded-full overflow-hidden ring-2 ring-sapphire group-hover:ring-sapphire/60 transition-colors">
+              <Image
+                src="/writing_2_sapphire.png"
+                alt="Read the blog"
+                width={128}
+                height={128}
+                className="object-cover w-full h-full"
+              />
+            </span>
+            <span className="text-sm text-ink/85 group-hover:text-sapphire transition-colors">
+              Writing
+            </span>
+          </Link>
+        </div>
+      </section>
     </>
   )
 }
