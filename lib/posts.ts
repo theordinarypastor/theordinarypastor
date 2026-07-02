@@ -134,22 +134,6 @@ Have you ever taken the time to wonder how God feels about you in your seasons o
 
 *Nick*`,
   },
-  {
-    slug: 'why-i-stopped-trying-to-be-inspiring',
-    title: 'Watch this space.',
-    date: '14 Apr 2026',
-    excerpt: 'This post is on its way — check back in a couple of days.',
-    tag: 'Pastoral',
-    content: `This post is on its way — check back in a couple of days.`,
-  },
-  {
-    slug: 'the-gift-of-unfinished-work',
-    title: 'Watch this space.',
-    date: '31 Mar 2026',
-    excerpt: 'This post is on its way — check back in a couple of days.',
-    tag: 'Ministry',
-    content: `This post is on its way — check back in a couple of days.`,
-  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {
