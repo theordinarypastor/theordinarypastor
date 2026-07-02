@@ -16,11 +16,17 @@ export default function WelcomePage() {
         <p className="text-mortar leading-relaxed mb-10">
           I&apos;m genuinely glad you&apos;re here. Expect a letter from me once a month that&apos;s
           honest, ordinary and worth reading. And if there&apos;s ever something I can be praying
-          for you, just hit reply on any letter and let me know.
+          for you, just hit reply on any letter and let me know. Have you checked out any of my
+          short blog posts?
         </p>
-        <Link href="/" className="text-sapphire text-sm hover:underline underline-offset-2">
-          &larr; Back to the site
-        </Link>
+        <div className="flex flex-col items-center gap-3">
+          <Link href="/blog" className="text-sapphire text-sm hover:underline underline-offset-2">
+            Read the blog &rarr;
+          </Link>
+          <Link href="/" className="text-sapphire text-sm hover:underline underline-offset-2">
+            &larr; Back to the site
+          </Link>
+        </div>
       </div>
     </div>
   )
