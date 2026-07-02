@@ -13,11 +13,13 @@ export default function WelcomePage() {
         <h1 className="font-serif text-ink text-3xl md:text-4xl font-medium mb-6">
           You&apos;re in.
         </h1>
-        <p className="text-mortar leading-relaxed mb-10">
+        <p className="text-mortar leading-relaxed mb-4">
           I&apos;m genuinely glad you&apos;re here. Expect a letter from me once a month that&apos;s
           honest, ordinary and worth reading. And if there&apos;s ever something I can be praying
-          for you, just hit reply on any letter and let me know. Have you checked out any of my
-          short blog posts?
+          for you, just hit reply on any letter and let me know.
+        </p>
+        <p className="text-mortar leading-relaxed mb-10">
+          Have you checked out any of my short blog posts?
         </p>
         <div className="flex flex-col items-center gap-3">
           <Link href="/blog" className="text-sapphire text-sm hover:underline underline-offset-2">
