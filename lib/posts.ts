@@ -16,7 +16,7 @@ export const posts: Post[] = [
     excerpt:
       'My Uncle John built our home. Now dementia is unbuilding his memories — and pointing me to a God who never forgets.',
     tag: 'Pastoral',
-    content: `My Uncle John has always been big in my life. He even built our home — every part of it his idea even if someone else laid the actual bricks. And every time I walk through the door of my home I remember him. At the same time, he's finding it harder to remember these days as his memories are being unbuilt by dementia. Just the other day he moved out of his home into full-time care.
+    content: `My Uncle John has always been big in my life. He even built our home — every part of it his idea even if someone else laid the actual bricks. And every time I walk through the door of my home I remember him. At the same time, he's finding it harder to remember these days as his memories are being unbuilt by dementia.
 
 In my family, growing up, only my mum was a follower of Jesus. Then God worked in a mighty way in Uncle John's life, and he started following Jesus too — and many others did after him. He studied at our local theological college, became a lay preacher in his church, and has served there for years. He's always been a big character, not only in our family, but (and I'm not sure if he remembers this any more) but he's one of the mighty in Perth Heat's Hall of Fame. After my grandad died, he became our family's patriarch.
 
@@ -28,7 +28,7 @@ And as I was driving home that day it struck me that one day Uncle John will ris
 
 Along with this, I was struck by the provilege of my Uncle John — so big and mighty in my life — now inviting me, at the end of his, into his weakness and forgetfulness. I was reminded that our God who is so big and so mighty, in the cross, invited us into his own weakness and the humiliation of sufferings too. "My God, my God, why have you forsaken me?" It seems he felt forgotten.
 
-I'm going back to see Uncle John next week. Maybe we'll read Psalm 23 again? Though, I can't help but wonder as I write this... I wonder if he'll remember that strong song many of us learned as kids and still remember:
+I'm going back to see Uncle John next week. Maybe we'll read Psalm 23 again? Though, I can't help but wonder as I write this... I wonder if he'll remember that strong song many of us learned as kids and remember still:
 
 *My God is so big, so strong and so mighty, there's nothing our God can not do.*
 
