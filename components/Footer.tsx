@@ -19,6 +19,7 @@ export default function Footer() {
           <Link href="/" className="hover:text-ink transition-colors">Home</Link>
           <Link href="/blog" className="hover:text-ink transition-colors">Blog</Link>
           <Link href="/bible-talks" className="hover:text-ink transition-colors">Bible Talks</Link>
+          <Link href="/prayer-letters" className="hover:text-ink transition-colors">Prayer Letters</Link>
           <Link href="/connect" className="hover:text-ink transition-colors">Let's Connect</Link>
           <Link href="/about" className="hover:text-ink transition-colors">About</Link>
           <Link href="/#prayer" className="hover:text-ink transition-colors">Partner with me in prayer &rarr;</Link>
