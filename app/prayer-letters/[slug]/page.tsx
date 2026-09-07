@@ -46,6 +46,16 @@ const markdownComponents = {
       {children}
     </a>
   ),
+  ul: ({ children }: { children?: React.ReactNode }) => (
+    <ul className="list-disc pl-5 space-y-2 mb-[1.4em] text-ink/85 leading-[1.7] text-[1.0625rem]">
+      {children}
+    </ul>
+  ),
+  li: ({ children }: { children?: React.ReactNode }) => <li>{children}</li>,
+  img: ({ src, alt }: { src?: string; alt?: string }) => (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img src={src} alt={alt || ''} className="w-full rounded-lg my-8" />
+  ),
 }
 
 export default function PrayerLetterPage({ params }: Props) {

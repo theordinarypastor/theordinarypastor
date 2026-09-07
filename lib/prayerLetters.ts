@@ -9,6 +9,69 @@ export interface PrayerLetter {
 
 export const prayerLetters: PrayerLetter[] = [
   {
+    slug: 'the-fathers-heart',
+    title: "The Father's Heart",
+    date: '7 Sep 2026',
+    excerpt:
+      "Preaching on the Father's heart at Narrogin and Parkerville, a new teaching role at Vocational Bible College, and continuing to pray through Kat's treatment and the road ahead in ministry.",
+    images: ['/prayer-letter-sept-garden.jpg'],
+    content: `Hi friends,
+
+It's been a full few weeks since the last letter.
+
+**Giving thanks**
+
+Aliyah wrapped up her work in Canada and is now on a road trip before heading home. We're thankful for the opportunity she's had, and asking for safety as she travels.
+
+The Perth Gospel Partnership's Annual Conference on Mystery was a real gift, opening my mind and heart to wonder in a way I wasn't expecting.
+
+Preaching at Narrogin Baptist was deeply moving, hearing them pray for their own church and community in the early morning before worship.
+
+Then Father's Day at [Parkerville Baptist](https://youtu.be/OBgpgjUh0oE) was harder and more moving than I thought it would be, as we spent some time with Paul and Timothy, exploring the Father's heart amidst our father-wounds.
+
+![Preaching at Parkerville Baptist on Father's Day](/prayer-letter-sept-preaching.jpg)
+
+And between it all, I've been enjoying time in the garden. Good for the soul; and just this morning our Splendid Fairy Wren (Djer-Djer) arrived back in our garden.
+
+![The view from our window, lavender in bloom](/prayer-letter-sept-window.jpg)
+
+![Our dog keeping watch on the porch](/prayer-letter-sept-dog.jpg)
+
+I've started a half-day-a-week teaching Worldviews and World Religions for [Vocational Bible College](https://www.vbc.edu.au/), and it's been a privilege, especially as a few of the students work for Voice of the Martyrs in Korea. I'm trying hard not to fanboy over them, as praying for persecuted believers each day has been a long-time practice for me. If you don't already know Voice of the Martyrs, I'd genuinely commend their [app](https://www.persecution.com/app/) to you.
+
+Kat's last round of treatment was pretty rough, but we're thankful it's only a six-monthly one, as we've now passed the halfway mark for this round of chemo.
+
+![Kat mid-treatment, still smiling](/prayer-letter-sept-kat.jpg)
+
+**Prayer requests**
+
+Job conversations are moving forward intentionally, but slowly, and I'm trusting that God will keep meeting needs and guiding us through. We'd love to stay connected to Carey, which does narrow which other roles make sense, though it's an honour being approached (if a little exhausting!). A couple of strong possibilities are still being explored, so please pray for patience to not rush ahead of God in it.
+
+Please pray for the Youth and RISE team at Carey, that they'd stay healthy while the demands on them stay high.
+
+Kat and I would appreciate prayer as we keep walking through treatment; medical fatigue is really present to us now.
+
+My research project (The Compassion of Christ and the Sin of Empathy) is falling behind and it's genuinely hard going, so please pray for self-discipline!
+
+A few Sundays coming up I'd love your prayer and thanks for:
+
+- 13th: home at Carey
+- 20th: Vasse, Church 242 (a colleague from my Arrow Leadership days)
+- 27th: back to Narrogin
+- 4th October: Carey Forrestdale
+- Early October: a short trip to India for Rise
+
+**A closing thought**
+
+I keep coming back to 2 Timothy 2:4, where a soldier's aim is to please the one who enlisted him. The gracious truth that I can please him in this season is a real joy to my soul, and keeps me persevering. So I praise him for this opportunity.
+
+![Kat and me](/prayer-letter-sept-couple.jpg)
+
+*In the ordinary,*
+
+*Nicholas*`,
+  },
+  {
     slug: 'what-were-praying-for-japan',
     title: "What We're Praying For",
     date: '31 Jul 2026',
