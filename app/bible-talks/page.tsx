@@ -15,6 +15,14 @@ const talks = [
     url: 'https://www.youtube.com/watch?v=E6kufZ9c8M8&t=3221s',
   },
   {
+    youtubeId: 'OBgpgjUh0oE',
+    title: "Father's Day: All Sons and Daughters",
+    scripture: '2 Timothy 1–2',
+    description: 'A Father\'s Day sermon on passing on a living, unashamed faith to the next generation.',
+    tag: "Father's Day",
+    url: 'https://youtu.be/OBgpgjUh0oE',
+  },
+  {
     youtubeId: 'GugO80hjxsI',
     title: 'Weakness is the Way Jesus Does Evangelism',
     scripture: 'John 4',
@@ -37,14 +45,6 @@ const talks = [
     description: 'An Old Testament narrative sermon on faith, risk, and the surprising grace of God toward outsiders.',
     tag: 'Old Testament',
     url: 'https://youtu.be/Q4qndVVsBV0',
-  },
-  {
-    youtubeId: 'HxV1yASUYCM',
-    title: 'The God Who Loves His Betrayers',
-    scripture: 'John 13',
-    description: 'A 10-minute Lenten reflection on the God who loved Judas all the way to the cross — and what that love asks of us.',
-    tag: 'Lent',
-    url: 'https://www.youtube.com/watch?v=HxV1yASUYCM',
   },
 ]
 
