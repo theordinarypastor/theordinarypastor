@@ -83,7 +83,7 @@ export default function AboutPage() {
           Invite me to preach
         </Link>
         <a
-          href="mailto:lockwood.nicholas@gmail.com"
+          href="mailto:nicholas@theordinarypastor.com.au"
           className="border border-stone-border text-ink text-sm px-6 py-3 rounded hover:border-sapphire/40 transition-colors text-center"
         >
           Get in touch

@@ -155,7 +155,7 @@ export default function InvitePage() {
 
           {error && (
             <p className="text-sm text-red-600">
-              Something went wrong — please try again or email lockwood.nicholas@gmail.com directly.
+              Something went wrong — please try again or email nicholas@theordinarypastor.com.au directly.
             </p>
           )}
 

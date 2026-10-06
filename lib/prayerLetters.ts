@@ -9,6 +9,87 @@ export interface PrayerLetter {
 
 export const prayerLetters: PrayerLetter[] = [
   {
+    slug: 'out-of-the-way-places',
+    title: 'Out of the Way Places',
+    date: '6 Oct 2026',
+    excerpt:
+      "Writing from the plane to India (alone, with an urgent visa prayer), Kat finishing chemo, Aliyah home from Canada, and the Canaanite woman of Matthew 15 reminding me of God's heart for those on the outside.",
+    images: ['/prayer-letter-oct-india.jpg'],
+    content: `Hi friends,
+
+I'm writing this one from the plane to India, and I'm on my own, which brings me straight to an urgent prayer request.
+
+**Please pray: urgent**
+
+The guy I'm meant to be travelling with on our RISE scouting trip to India ran into unexpected, last-minute visa complications. He's booked to fly out on Friday. Please pray it finally goes through!
+
+**Giving thanks**
+
+Kat's chemo is over, and it's bittersweet. The worst of it is done, and that's sweet. But she only made it halfway through this particular chemo, because the side effects had started to outweigh the benefits going forward. Other treatment will continue for years. It's been such a roller coaster, and it feels like we've still got to process it all.
+
+![Kat with the oncology nurses after her last chemo](/prayer-letter-oct-kat.jpg)
+
+Her diagnosis came around her birthday last year, so the end of chemo, her birthday celebrations and Aliyah arriving home all happened at about the same time.
+
+![Kat's birthday cake](/prayer-letter-oct-kat-birthday.jpg)
+
+Aliyah's Canada stint finished with a road trip to Newfoundland with a lifelong friend she made over there. On the 25th anniversary of 9/11 she was in Gander, where all those planes landed (the *Come From Away* story), and she actually met Beulah! She got screeched in too. She may be an honorary Newfoundlander now, but it's great to have her back home, even if she's ready to move out with a bunch of friends. Not in this housing market!!
+
+![Aliyah and her friend with Beulah in Gander](/prayer-letter-oct-gander.jpg)
+
+![Aliyah skydiving](/prayer-letter-oct-skydive.jpg)
+
+![Picking Aliyah up from the airport](/prayer-letter-oct-aliyah-home.jpg)
+
+Back in early September I got invited to my nephew's 7th birthday party, mini golf with all his friends. Very cute, and great to be included, even if I didn't take the cup. Those little lads were just the better men on the day.
+
+![Mini golf at my nephew's birthday](/prayer-letter-oct-minigolf.jpg)
+
+Preaching has been great, especially in our country churches. I keep thinking of Lucy in C.S. Lewis' *The Last Battle*, remembering that an out-of-the-way stable once held something bigger than the whole world. In the same way, these churches, though out of the way, are filled with the risen Lord Jesus. Great stuff. It was a joy to finally visit and preach at Carey Forrestdale on the 4th too, after many years of praying for them!
+
+![With Ben Good and family at Carey Forrestdale](/prayer-letter-oct-forrestdale.jpg)
+
+Mentoring remains a great and rewarding gift. One of our RISE alumni preached down at Narrogin the other day, and my ministry apprentice Thomas has just been commissioned as Carey's pastor for youth and evangelism. Epic!
+
+![Praying for Thomas at his commissioning](/prayer-letter-oct-thomas.jpg)
+
+Teaching at Vocational Bible College continues to be a real privilege (more on how that started in [last month's letter](/prayer-letters/the-fathers-heart)). This term I'm also taking on some teaching in the Psalms to cover for someone who's unwell. Since the Psalms are a daily part of my own prayer life, I'm looking forward to going deeper in them myself as I teach others.
+
+Finally, the Splendid Fairy Wren is back in our garden, so my prayer times have moved out the front. Less welcome: the snakes that have started showing up. A freakin' big dugite and a tiger snake have had us properly freaked out!
+
+![The dugite](/prayer-letter-oct-dugite.jpg)
+
+![The tiger snake](/prayer-letter-oct-tiger-snake.jpg)
+
+**What I've been chewing on**
+
+I've been spending time with the disciples, the Canaanite woman and Jesus in Matthew 15, and have preached on it a couple of times now. The woman's story sits between the feeding of the 5,000 and the feeding of the 4,000, and the compassion of Christ toward those on the outside is as big as the heart of God. If you've not come across the [Operation World app](https://operationworld.org/prayer-resources/prayer-app/) and Joshua Project's [Unreached of the Day app](https://joshuaproject.net/pray/unreachedoftheday/app), I commend them to you.
+
+**Prayer requests**
+
+My travel partner's visa, so he can join me in India on Friday.
+
+Job conversations are at the final stages now. There are a lot of complexities, and the ministry needs in many places are great, so please pray for wisdom and for the right doors to open.
+
+Kat and me, as we continue processing this whole season of the cancer journey.
+
+My research project (The Compassion of Christ and the Sin of Empathy) is now desperately behind schedule with all the work conversations and interviews. I'm still excited about it, so please pray I'd get back and get it done!
+
+Our RISE team heading to Thailand, who are being interviewed at Carey on the 18th. These global exposure trips are so impacting, as the team meets people like the Canaanite woman of Matthew 15 and comes back transformed by the Lord, as the disciples ought to have been. If your heart is moved to help raise funds for victims of human trafficking through Thailand's scam centres, or for those caught up in the war in Myanmar, please [email me directly](mailto:nicholas@theordinarypastor.com.au).
+
+A few dates coming up I'd love your prayer and thanks for:
+
+- 18th & 25th October: home at Carey, super glad to just enjoy God's people there
+- 2nd November: Austin Cove Baptist
+- 8th November: Lynwood Christian Church
+- 15th November: Yangebup Baptist
+- 22nd November: Yangebup Baptist again, where Gavin, one of our RISE people, will be preaching his first sermon. We're thankful to them for the opportunity they give our people to preach.
+
+*In the ordinary,*
+
+*Nicholas*`,
+  },
+  {
     slug: 'the-fathers-heart',
     title: "The Father's Heart",
     date: '7 Sep 2026',
