@@ -20,11 +20,21 @@ It's been a full month since I last wrote from the plane to India. We're home, g
 
 **Giving thanks**
 
+We met with Kat's oncologist the other day, who confirmed there's no sign of disease! There's still treatment monthly, but it's not as invasive or painful, and now it's just managing the side effects. A strange but good one is that Kat now enjoys the pool, and we're grateful to the grandparents for putting that in for us when we built.
+
 Aliyah's been home for a month or so now, and we're still grateful and enjoying her.
+
+![Aliyah and me](/prayer-letter-nov-aliyah.jpg)
 
 We've a number of people from Hyderabad in our church, and earlier in the year had planned to check things out as a possibility for our RISE cultural immersion trips. We're grateful for the generosity of those who hosted us, and if I'm not on your Facebook, you can check some of that [over here](https://www.facebook.com/nicholas.lockwood.12). Some highlights: preaching at the opening of a church's harvest festival, in a clergy collar for the first time in years; seeing a number of rural churches digging deep to build new church buildings, some to seat five thousand people; and visiting a smaller church of 200 families made up entirely of people from different castes, who have found themselves one new, equal family in Christ. Great to see that Sportsfest is global too!
 
+![A poster for the Medak Diocese Youth Sports Fest](/prayer-letter-nov-medak-sportsfest.jpg)
+
 We were also invited to a gathering of all the bishops of the Church of South India in Hyderabad, which was a first for that diocese and a big thing for them. On the way we stopped at Medak, a huge Gothic cathedral rising out of the middle of nowhere. In the early 1900s a British minister came to a district devastated by drought and leprosy, and used his family's money to feed people, pay wages, and build the cathedral, schools and a hospital. It's still a place of pilgrimage for people of all faiths, and it was a humbling privilege to pray with people who had arrived with little left but God.
+
+![Medak Cathedral from the gardens](/prayer-letter-nov-medak-cathedral.jpg)
+
+![Inside Medak Cathedral, with people praying beneath the stained glass](/prayer-letter-nov-medak-cathedral-inside.jpg)
 
 Back home, it was a joy to preach at Austin Cove Baptist on the 1st for their Giving Sunday as they look to invest in a Children's and Family Minister, at Lynwood Christian Church on the 8th as they prepared for a season of fasting and prayer, and finally at Yangebup Baptist last Sunday as they prepare to welcome their new Pastor! It's been such a privilege to be able to encourage other churches and leaders in this season.
 
@@ -35,6 +45,10 @@ I'm still lecturing a couple of classes for [Vocational Bible College](https://w
 To be honest, it's been a pretty hard season around work choices, and I've really struggled with what next year will look like as I explore full-time work that will allow us to remain at Carey for the next year. But one opportunity that's hard to stop thinking about is VBC: ordinary people being given the extra-ordinary opportunity to know the Lord, and to learn how to serve him in their everyday lives, in their workplaces and their families.
 
 So from the 11th to the 14th I was in Sydney meeting VBC's board, exploring what it could look like to develop VBC here in WA. They're humble, keen and wise people.
+
+![A selfie at the Sydney Opera House](/prayer-letter-nov-sydney-opera-house.jpg)
+
+![On a ferry on Sydney Harbour, with the Harbour Bridge behind](/prayer-letter-nov-sydney-ferry.jpg)
 
 **Prayer requests**
 
@@ -53,6 +67,8 @@ A few dates coming up I'd love your prayer and thanks for:
 - 22nd November: Yangebup Baptist, supporting Gavin as he preaches
 - 27th November: the VBC Board meets to talk about my potential role
 - 30th November: the RISE team flies to Chiang Mai
+
+![The RISE team at Thailand training](/prayer-letter-nov-thailand-training.jpg)
 
 **What I've been chewing on**
 
