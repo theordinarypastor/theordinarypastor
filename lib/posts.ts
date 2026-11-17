@@ -10,6 +10,31 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: 'small-generosity-big-joy',
+    title: 'Small Generosity, Big Joy',
+    date: '17 Nov 2026',
+    excerpt:
+      'A reduced income meant we couldn\'t be as generous as we\'re used to, and the joy slipped away with it. Then a young couple\'s simple plan gave us a way forward.',
+    tag: 'Pastoral',
+    content: `A significantly reduced income these last few months has meant we can’t be as generous with our money as we’re used to. That has left us sad, because we enjoy being generous, and God has made us for joy. But an easy way to keep it going came our way the other day, and I thought it worth sharing.
+
+Our daughter was trying out a small group from her church, and the topic of generosity came up. The young couple hosting had a simple plan. Each week they put $50 into a spending account with one purpose: being generous to others.
+
+Their examples were small and personal. They bought coffees when out with others. They gave to a need when someone knocked on the door or made a special ask at church. They tapped their card at the checkout before a stranger could pay. They left a gift card and a kind note on a colleague’s desk.
+
+It lit me up and gave us a way forward. Because, whilst we’re still tithing, the personal side of generosity had slipped away from us in this season, and the joy with it. The thing that made it harder is that we’ve experienced so much generosity ourselves in this season of life that’s been rich in friends’ and colleagues’ care!
+
+Perhaps you’re not in a tough season personally, but you feel discouraged spiritually or in your church. Perhaps you’re uninspired, or your church is turned inward - which may be necessary for a season, but it won’t inspire us for long, because the church is only true to herself when she’s for others. Generosity can help there too. We can still feel the joy of generosity personally, even if we’re discouraged spiritually.
+
+$50 may feel like a lot. This young couple leading our daughter’s small group were of the double-income-no-kids tribe. But most of us can have a go with $10 or $15. It might be one of those ordinary ways where we end up finding extra-ordinary joy, as we live into the image of the God who made us like himself but who even more gloriously redeemed us in the image of his self-giving Son.
+
+---
+
+*In the Ordinary,*
+
+*Nicholas*`,
+  },
+  {
     slug: 'he-built-our-house-dementia-is-unbuilding-his',
     title: 'He Built Our House. Dementia Is Unbuilding His.',
     date: '30 Jun 2026',
