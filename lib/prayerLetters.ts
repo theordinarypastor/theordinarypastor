@@ -9,6 +9,60 @@ export interface PrayerLetter {
 
 export const prayerLetters: PrayerLetter[] = [
   {
+    slug: 'an-extra-ordinary-opportunity',
+    title: 'An Extra-ordinary Opportunity',
+    date: '17 Nov 2026',
+    excerpt:
+      "Home from India grateful and inspired, encouraging churches around Perth, meeting VBC's board in Sydney, and praying for wisdom about what next year will look like.",
+    content: `Hi friends,
+
+It's been a full month since I last wrote from the plane to India. We're home, grateful and inspired, I've been to Sydney to meet VBC's board, and there's a lot still to pray through about next year. Here's where things are at.
+
+**Giving thanks**
+
+Aliyah's been home for a month or so now, and we're still grateful and enjoying her.
+
+We've a number of people from Hyderabad in our church, and earlier in the year had planned to check things out as a possibility for our RISE cultural immersion trips. We're grateful for the generosity of those who hosted us, and if I'm not on your Facebook, you can check some of that [over here](https://www.facebook.com/nicholas.lockwood.12). Some highlights: preaching at the opening of a church's harvest festival, in a clergy collar for the first time in years; seeing a number of rural churches digging deep to build new church buildings, some to seat five thousand people; and visiting a smaller church of 200 families made up entirely of people from different castes, who have found themselves one new, equal family in Christ. Great to see that Sportsfest is global too!
+
+We were also invited to a gathering of all the bishops of the Church of South India in Hyderabad, which was a first for that diocese and a big thing for them. On the way we stopped at Medak, a huge Gothic cathedral rising out of the middle of nowhere. In the early 1900s a British minister came to a district devastated by drought and leprosy, and used his family's money to feed people, pay wages, and build the cathedral, schools and a hospital. It's still a place of pilgrimage for people of all faiths, and it was a humbling privilege to pray with people who had arrived with little left but God.
+
+Back home, it was a joy to preach at Austin Cove Baptist on the 1st for their Giving Sunday as they look to invest in a Children's and Family Minister, at Lynwood Christian Church on the 8th as they prepared for a season of fasting and prayer, and finally at Yangebup Baptist last Sunday as they prepare to welcome their new Pastor! It's been such a privilege to be able to encourage other churches and leaders in this season.
+
+I'm still lecturing a couple of classes for [Vocational Bible College](https://www.vbc.edu.au/) and finding it a privilege to invest in everyday Christian leaders both in Australia and abroad.
+
+**Where things are heading**
+
+To be honest, it's been a pretty hard season around work choices, and I've really struggled with what next year will look like as I explore full-time work that will allow us to remain at Carey for the next year. But one opportunity that's hard to stop thinking about is VBC: ordinary people being given the extra-ordinary opportunity to know the Lord, and to learn how to serve him in their everyday lives, in their workplaces and their families.
+
+So from the 11th to the 14th I was in Sydney meeting VBC's board, exploring what it could look like to develop VBC here in WA. They're humble, keen and wise people.
+
+**Prayer requests**
+
+Wisdom as the VBC board meets and the final conversations are had.
+
+Wisdom as we plan next year in the uncertainty of everything, including where I preach. We enjoy being at Carey twice a month, but the needs are great in other places too.
+
+A settled heart and clear head for me after a hard few months of discernment.
+
+Gavin, one of our RISE people, preaching his first sermon at Yangebup Baptist this Sunday. I'll be there to cheer him on.
+
+Our RISE team flying to Chiang Mai on the 30th, for health, safety and good preparation, and that they'd come home changed by the compassion of Christ. If your heart is moved to help support ministry for victims of human trafficking through Thailand's scam centres, or for those caught up in the war in Myanmar, please [email me directly](mailto:nicholas@theordinarypastor.com.au).
+
+A few dates coming up I'd love your prayer and thanks for:
+
+- 22nd November: Yangebup Baptist, supporting Gavin as he preaches
+- 27th November: the VBC Board meets to talk about my potential role
+- 30th November: the RISE team flies to Chiang Mai
+
+**What I've been chewing on**
+
+Aliyah came home from her small/connect group the other day with a brilliant bit of wisdom concerning generosity, and you can check that [over here](/blog/small-generosity-big-joy).
+
+*In the ordinary,*
+
+*Nicholas*`,
+  },
+  {
     slug: 'out-of-the-way-places',
     title: 'Out of the Way Places',
     date: '6 Oct 2026',
