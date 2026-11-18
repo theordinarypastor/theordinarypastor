@@ -42,7 +42,7 @@ I'm still lecturing a couple of classes for [Vocational Bible College](https://w
 
 **Where things are heading**
 
-To be honest, it's been a pretty hard season around work choices, and I've really struggled with what next year will look like as I explore full-time work that will allow us to remain at Carey for the next year. But one opportunity that's hard to stop thinking about is VBC: ordinary people being given the extra-ordinary opportunity to know the Lord, and to learn how to serve him in their everyday lives, in their workplaces and their families.
+To be honest, it's been a pretty hard season around work choices, and I've really struggled with what next year will look like as I explore full-time work that will allow us to remain at Carey for the next year. But one opportunity that's hard to stop thinking about is VBC: ordinary people being given the extra-ordinary opportunity to study theology whilst still working, with a focus on putting it into practice (and helping others put it into practice too) in their everyday lives, workplaces and families.
 
 So from the 11th to the 14th I was in Sydney meeting VBC's board, exploring what it could look like to develop VBC here in WA. They're humble, keen and wise people.
 
@@ -52,7 +52,7 @@ So from the 11th to the 14th I was in Sydney meeting VBC's board, exploring what
 
 **Prayer requests**
 
-Wisdom as the VBC board meets and the final conversations are had.
+Wisdom as the VBC board meets and the final conversations are had around my possible role with them.
 
 Wisdom as we plan next year in the uncertainty of everything, including where I preach. We enjoy being at Carey twice a month, but the needs are great in other places too.
 
