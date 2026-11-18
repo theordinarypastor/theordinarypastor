@@ -67,6 +67,8 @@ A few dates coming up I'd love your prayer and thanks for:
 - 22nd November: Yangebup Baptist, supporting Gavin as he preaches
 - 27th November: the VBC Board meets to talk about my potential role
 - 30th November: the RISE team flies to Chiang Mai
+- Home at Carey Church
+- Preaching at Mundaring Church of Christ
 
 ![The RISE team at Thailand training](/prayer-letter-nov-thailand-training.jpg)
 
